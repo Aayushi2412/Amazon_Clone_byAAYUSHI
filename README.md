@@ -6,4 +6,6 @@ The home page of the popular shopping website "AMAZON" is designed using HTML an
 
 ![image](https://github.com/Aayushi2412/Amazon_Clone_byAAYUSHI/assets/106343054/3a809a95-01f5-40a0-8b08-e8a180523a38)
 
+Partial code content is uploaded in the project folder, for more details contact me at :
+meaayushi24@gmail.com
 Thank You !!
